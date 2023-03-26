@@ -1,3 +1,11 @@
 Primera clase de Git:
 
-Este es un primer comentario.
+Este es un primer comentario
+
+
+
+Agrego segundo parrafo
+
+
+Agrego tercer parrafo para ver diff y diff --staged.
+
