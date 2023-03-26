@@ -9,3 +9,8 @@ Agrego segundo parrafo
 
 Agrego tercer parrafo para ver diff y diff --staged.
 
+
+Modifico 1 sin add.
+
+
+Modifico 2 sin add.
