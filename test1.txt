@@ -1,0 +1,3 @@
+Primera clase de Git:
+
+Este es un primer comentario.
