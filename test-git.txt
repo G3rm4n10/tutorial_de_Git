@@ -1,9 +1,0 @@
-Este es el primer archivo de prueba
-del tutorial de git
-
-
-Agrego un comentario (modificacion)
-
-tercer comentario y nada mas
-
-cuarto comentario
